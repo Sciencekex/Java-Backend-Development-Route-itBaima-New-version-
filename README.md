@@ -1,5 +1,7 @@
 # Java Backend Development Route (itBaima New version)
-转载 Java后端开发路线 教程
+据坤哥@sechelper传，渗透手的前置基础知识应该是Java的开发线
+
+故本章节将 转载 Java后端开发路线 教程
 
 转载自[青空の霞光的个人空间-青空の霞光个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/37737161)
 
