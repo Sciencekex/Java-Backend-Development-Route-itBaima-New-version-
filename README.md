@@ -1,9 +1,9 @@
-# JavaSE-tutorial
-JavaSE 教程
+# Java Backend Development Route (itBaima New version)
+转载 Java后端开发路线 教程
 
-转载自[JavaSE 教程 已完结 (IDEA 2022 最新版) 4K蓝光画质+杜比音效 零基础入门一套搞定 入门到入土_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1YP4y1o75f/)
+转载自[青空の霞光的个人空间-青空の霞光个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/37737161)
 
-转载自[柏码知识库 | JavaSE 笔记（八）GUI程序开发 (itbaima.cn)](https://www.itbaima.cn/document/qs7gqok56gzc6idr)
+转载自[柏码 - 让每一行代码都闪耀智慧的光芒！ (itbaima.cn)](https://www.itbaima.cn/)
 ![image](https://github.com/Sciencekex/JavaSE-tutorial/blob/main/img/PixPin_2024-08-04_11-05-30.jpg)
 
 建议参考校内课程优化版来学🤔
